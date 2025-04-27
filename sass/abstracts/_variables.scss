@@ -1,0 +1,30 @@
+//variabes in scss
+
+$bg-color: #FFF;
+$main-text-color: #42446E;
+$sub-text-color: #666;
+$link-color: #000;
+
+
+$dark-bg-color: #191919;
+$dark-main-text-color: #D9D9D9;
+$dark-sub-text-color: #A7A7A7;
+$dark-link-color: #fff;
+
+
+
+$gradient-color-top: #13B0F5;
+$gradient-color-bottom: #E70FAA;
+
+
+//defolt-font-size
+$default-font-size: 1.8rem; //text in cards
+$big-font-size: 5.8rem;
+$heading-font-size: 4.8rem;
+$sub-heading-font-size: 3.2rem;
+$card-heading-font-size: 2.8rem;
+$link-font-size: 1.4rem;
+
+
+// mixins for size
+$limit-for-block-size: 100rem;

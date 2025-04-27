@@ -1,0 +1,45 @@
+/* ========================every to zero============================ */
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  /*10px in %, for good zoom*/
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box; }
+
+input {
+  border: none; }
+
+ul {
+  list-style: none; }
+
+a {
+  text-decoration: none; }
+
+/* ========================every what about text style============================ */
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  color: #42446E; }
+
+.u-center-text {
+  text-align: center !important; }
+
+.u-in-limit {
+  max-width: 100rem !important;
+  margin: 0 auto !important; }
+
+.u-margin-bottom-big {
+  margin-bottom: 8rem !important; }
+
+.u-margin-bottom-medium {
+  margin-bottom: 4rem !important; }
+
+.u-margin-bottom-small {
+  margin-bottom: 1.5rem !important; }

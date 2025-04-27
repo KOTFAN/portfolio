@@ -1,0 +1,14 @@
+{
+   "name": "portfolio",
+   "version": "1.0.0",
+   "description": "Landing page for my portfoio web sprite",
+   "main": "index.js",
+   "scripts": {
+      "compile:sass": "node-sass sass/index.scss css/style.css -w"
+   },
+   "author": "KOTFAN",
+   "license": "ISC",
+   "devDependencies": {
+      "node-sass": "^9.0.0"
+   }
+}

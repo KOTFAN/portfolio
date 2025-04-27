@@ -1,0 +1,47 @@
+/* ========================every what about text style============================ */
+
+
+body {
+   font-family: "Lato", sans-serif;
+   font-weight: 400;
+   color: $main-text-color;
+}
+
+
+
+// .heading-secondary {
+//    display: inline-block;
+//    background-image: linear-gradient(to right, $main-color-light, $main-color-dark);
+//    color: transparent;
+//    background-clip: text;
+//    letter-spacing: 0.2rem;
+//    font-size: 3.5rem;
+//    text-transform: uppercase;
+//    font-weight: 700;
+//    transition: all .2s;
+
+//    &:hover {
+//       transform: skewX(15deg) skewY(2deg) scale(1.1);
+//       cursor: default;
+//    }
+// }
+
+
+
+// .heading-third {
+//    font-size: $default-font-size;
+//    color: $color-grey;
+//    text-transform: uppercase;
+//    font-weight: 700;
+
+
+// }
+
+
+// .paragraph {
+//    font-size: $default-font-size;
+
+//    &:not(:last-child) {
+//       margin-bottom: 3rem;
+//    }
+// }
